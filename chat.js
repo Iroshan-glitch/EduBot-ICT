@@ -1,4 +1,4 @@
-const sendBtn = document.querySelector('input[type="button"]');
+/*const sendBtn = document.querySelector('input[type="button"]');
 const userMsg = document.getElementById('msg');
 const chatBox = document.querySelector('.chat');
 
@@ -82,4 +82,5 @@ async function callAPI(question) {
         addMessage("Bot", "⚠️ Error connecting to ChatGPT API.");
         console.error(error);
     }
-}
+}*/
+
